@@ -1,0 +1,53 @@
+
+#button1{
+  width: 100px;
+  height: 50px;
+  background-color:green;
+  cursor: pointer;
+  border: solid;
+  border-radius:20px;
+  transition:background-color 0.5s ease-in-out ;
+}
+a{
+  text-decoration: none;
+}
+h1{
+
+  font-family:cursive ;
+}
+h2{
+  font-family:serif ;
+}
+h3{
+  font-family: fantasy;
+}
+#div1{
+  background-color: white;
+  border-width: 10px;
+  border-style:solid;
+  border-color: green;
+  border-radius:20px ;
+}
+
+#now{
+  color:white;
+  height: 50px;
+  width: 410px;
+  background-color: #181719;
+  border-color:;#181719
+
+  
+}
+#not{
+  background-color: #e9aa0e;
+}
+#logo{
+  color: #e9aa0e;
+  font-size:20px;
+}
+#value{
+  margin: 10px;
+}
+#button1:hover{
+  background-color: blue;
+}
